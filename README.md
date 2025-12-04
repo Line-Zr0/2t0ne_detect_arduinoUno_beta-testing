@@ -1,0 +1,2 @@
+# 2t0ne_detect_arduinoUno_beta-testing
+twoToneDetectForArduinoUno¡usingGeoertzalAndDFTToDetect2SpecifiedHertzTonesInSequenceForRadioPagerMonitering
